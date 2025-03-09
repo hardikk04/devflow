@@ -15,7 +15,7 @@ const Navbar = () => {
           height={23}
           alt="DevFlow"
         />
-        <p className="h2-bold font-spaceGrotesk text-white text-black max-sm:hidden">
+        <p className="h2-bold font-spaceGrotesk text-white  max-sm:hidden">
           Dev <span className="text-orange-500">Flow</span>
         </p>
       </Link>
